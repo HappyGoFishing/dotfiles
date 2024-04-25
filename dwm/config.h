@@ -59,14 +59,18 @@ static const Layout layouts[] = {
 static char dmenumon[2] = "0"; /* component of dmenucmd, manipulated in spawn() */
 static const char *dmenucmd[] = { "dmenu_run", "-m", dmenumon, "-fn", dmenufont, "-nb", col_gray1, "-nf", col_gray3, "-sb", col_accent, "-sf", col_gray4, NULL };
 static const char *termcmd[]  = { "alacritty", NULL };
-static const char *webcmd[]  = { "firefox", NULL };
 
+static const char *webcmd[]  = { "firefox", NULL };
+static const char *screenshotcmd[] = { "escrotum", "--select", "--clipboard", NULL };
 
 static const Key keys[] = {
 	/* modifier                     key        function        argument */
+	
 	{ MODKEY,                       XK_p,      spawn,          {.v = dmenucmd } },
 	{ MODKEY,             		XK_Return, spawn,          {.v = termcmd } },
-	{ MODKEY,             		XK_f, spawn,          {.v = webcmd } },
+	{ MODKEY,             		XK_f,      spawn,          {.v = webcmd } },
+	{ MODKEY|ShiftMask,             XK_s,      spawn,          {.v = screenshotcmd } },
+
 	{ MODKEY,                       XK_b,      togglebar,      {0} },
 	{ MODKEY,                       XK_j,      focusstack,     {.i = +1 } },
 	{ MODKEY,                       XK_k,      focusstack,     {.i = -1 } },
@@ -77,9 +81,9 @@ static const Key keys[] = {
 	{ MODKEY,                       XK_Return, zoom,           {0} },
 	{ MODKEY,                       XK_Tab,    view,           {0} },
 	{ MODKEY,             		XK_q,      killclient,     {0} },
-	{ MODKEY|ShiftMask,             XK_t,      setlayout,      {.v = &layouts[0]} }, /* tiling layout */
-	{ MODKEY|ShiftMask,             XK_f,      setlayout,      {.v = &layouts[1]} }, /* floating layout */
-	{ MODKEY|ShiftMask,             XK_m,      setlayout,      {.v = &layouts[2]} }, /* monacle layout */
+	{ MODKEY|Mod1Mask,              XK_t,      setlayout,      {.v = &layouts[0]} }, /* tiling layout */
+	{ MODKEY|Mod1Mask,              XK_f,      setlayout,      {.v = &layouts[1]} }, /* floating layout */
+	{ MODKEY|Mod1Mask,              XK_m,      setlayout,      {.v = &layouts[2]} }, /* monacle layout */
 	{ MODKEY,	                XK_space,  togglefloating, {0} }, /* toggle floating for selected window */
 	{ MODKEY,                       XK_0,      view,           {.ui = ~0 } },
 	{ MODKEY|ShiftMask,             XK_0,      tag,            {.ui = ~0 } },

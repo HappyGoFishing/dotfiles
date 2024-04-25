@@ -10,7 +10,7 @@ return {
     config = function()
 
         --vim.keymap.set("n", "<C-e>", ":Neotree filesystem reveal<CR>", {})
-        vim.keymap.set("n", "<C-e>", ":Neotree toggle<CR>", {})
+        vim.keymap.set("n", "<C-e>", ":Neotree filesystem toggle left<CR>", {})
 
     end
 }
