@@ -25,7 +25,15 @@ return {
                 }
             })
 
-            lspconfig.rust_analyzer.setup({})
+            lspconfig.rust_analyzer.setup({
+                settings = {
+                    ["rust-analyzer"] = {
+                        cargo = {
+                            allFeatures = true,
+                        },
+                    },
+                },
+            })
             lspconfig.clangd.setup({})
             vim.keymap.set("n", "K", vim.lsp.buf.hover, {})
             vim.keymap.set("n", "gd", vim.lsp.buf.definition, {})

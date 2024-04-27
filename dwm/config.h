@@ -1,5 +1,8 @@
 /* See LICENSE file for copyright and license details. */
 
+/* useful constants */
+#define TERMINAL_BINARY "alacritty"
+#define WEBBROWSER_BINARY "firefox"
 /* appearance */
 static const unsigned int borderpx  = 2;        /* border pixel of windows */
 static const unsigned int snap      = 24;       /* snap pixel */
@@ -57,20 +60,27 @@ static const Layout layouts[] = {
 
 /* commands */
 static char dmenumon[2] = "0"; /* component of dmenucmd, manipulated in spawn() */
-static const char *dmenucmd[] = { "dmenu_run", "-m", dmenumon, "-fn", dmenufont, "-nb", col_gray1, "-nf", col_gray3, "-sb", col_accent, "-sf", col_gray4, NULL };
-static const char *termcmd[]  = { "alacritty", NULL };
 
-static const char *webcmd[]  = { "firefox", NULL };
+static const char *dmenucmd[] = { "dmenu_run", "-m", dmenumon, "-fn", dmenufont, "-nb", col_gray1, "-nf", col_gray3, "-sb", col_accent, "-sf", col_gray4, NULL };
+static const char *termcmd[]  = { TERMINAL_BINARY, NULL };
+
+static const char *webcmd[]  = { WEBBROWSER_BINARY, NULL };
 static const char *screenshotcmd[] = { "escrotum", "--select", "--clipboard", NULL };
+static const char *musiccmd[] = { TERMINAL_BINARY, "-e", "termusic", NULL };
+static const char *fileguicmd[] = { "pcmanfm", NULL };
 
 static const Key keys[] = {
-	/* modifier                     key        function        argument */
-	
-	{ MODKEY,                       XK_p,      spawn,          {.v = dmenucmd } },
-	{ MODKEY,             		XK_Return, spawn,          {.v = termcmd } },
-	{ MODKEY,             		XK_f,      spawn,          {.v = webcmd } },
+	/* modifier                     key        function        argument */	
+	/* application keybinds */
+    { MODKEY,                       XK_p,      spawn,          {.v = dmenucmd } },
+	{ MODKEY,             		    XK_Return, spawn,          {.v = termcmd } },
+	{ MODKEY,             		    XK_f,      spawn,          {.v = webcmd } },
 	{ MODKEY|ShiftMask,             XK_s,      spawn,          {.v = screenshotcmd } },
+    { MODKEY,                       XK_m,      spawn,          {.v = musiccmd } },
+    { MODKEY,                       XK_e,      spawn,          {.v = fileguicmd } },
 
+
+    /* window manager keybinds */
 	{ MODKEY,                       XK_b,      togglebar,      {0} },
 	{ MODKEY,                       XK_j,      focusstack,     {.i = +1 } },
 	{ MODKEY,                       XK_k,      focusstack,     {.i = -1 } },
@@ -80,15 +90,15 @@ static const Key keys[] = {
 	{ MODKEY,                       XK_l,      setmfact,       {.f = +0.05} },
 	{ MODKEY,                       XK_Return, zoom,           {0} },
 	{ MODKEY,                       XK_Tab,    view,           {0} },
-	{ MODKEY,             		XK_q,      killclient,     {0} },
+	{ MODKEY,             		    XK_q,          killclient,     {0} },
 	{ MODKEY|Mod1Mask,              XK_t,      setlayout,      {.v = &layouts[0]} }, /* tiling layout */
 	{ MODKEY|Mod1Mask,              XK_f,      setlayout,      {.v = &layouts[1]} }, /* floating layout */
 	{ MODKEY|Mod1Mask,              XK_m,      setlayout,      {.v = &layouts[2]} }, /* monacle layout */
-	{ MODKEY,	                XK_space,  togglefloating, {0} }, /* toggle floating for selected window */
+	{ MODKEY,	                    XK_space,  togglefloating, {0} }, /* toggle floating for selected window */
 	{ MODKEY,                       XK_0,      view,           {.ui = ~0 } },
 	{ MODKEY|ShiftMask,             XK_0,      tag,            {.ui = ~0 } },
-	{ MODKEY,                       XK_comma,  focusmon,       {.i = -1 } },
-	{ MODKEY,                       XK_period, focusmon,       {.i = +1 } },
+	{ MODKEY|Mod1Mask,              XK_j,      focusmon,       {.i = -1 } },
+	{ MODKEY|Mod1Mask,              XK_k,      focusmon,       {.i = +1 } },
 	{ MODKEY|ShiftMask,             XK_comma,  tagmon,         {.i = -1 } },
 	{ MODKEY|ShiftMask,             XK_period, tagmon,         {.i = +1 } },
 	TAGKEYS(                        XK_1,                      0)
@@ -108,10 +118,7 @@ static const Key keys[] = {
 static const Button buttons[] = {
 	/* click                event mask      button          function        argument */
 	{ ClkLtSymbol,          0,              Button1,        setlayout,      {0} },
-	{ ClkLtSymbol,          0,              Button3,        setlayout,      {.v = &layouts[2]} },
-	{ ClkWinTitle,          0,              Button2,        zoom,           {0} },
-	{ ClkStatusText,        0,              Button2,        spawn,          {.v = termcmd } },
-	{ ClkClientWin,         MODKEY,         Button1,        movemouse,      {0} },
+	{ ClkLtSymbol,          0,              Button3,        setlayout,      {.v = &layouts[2]} }, { ClkWinTitle,          0,              Button2,        zoom,           {0} }, { ClkStatusText,        0,              Button2,        spawn,          {.v = termcmd } }, { ClkClientWin,         MODKEY,         Button1,        movemouse,      {0} },
 	{ ClkClientWin,         MODKEY,         Button2,        togglefloating, {0} },
 	{ ClkClientWin,         MODKEY,         Button3,        resizemouse,    {0} },
 	{ ClkTagBar,            0,              Button1,        view,           {0} },
@@ -119,4 +126,3 @@ static const Button buttons[] = {
 	{ ClkTagBar,            MODKEY,         Button1,        tag,            {0} },
 	{ ClkTagBar,            MODKEY,         Button3,        toggletag,      {0} },
 };
-
