@@ -66,7 +66,7 @@ static const char *termcmd[]  = { TERMINAL_BINARY, NULL };
 
 static const char *webcmd[]  = { WEBBROWSER_BINARY, NULL };
 static const char *screenshotcmd[] = { "escrotum", "--select", "--clipboard", NULL };
-static const char *musiccmd[] = { TERMINAL_BINARY, "-e", "termusic", NULL };
+static const char *musiccmd[] = { TERMINAL_BINARY, "-e", "cmus", NULL };
 static const char *fileguicmd[] = { "pcmanfm", NULL };
 
 static const Key keys[] = {

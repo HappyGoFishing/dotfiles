@@ -14,7 +14,7 @@ set -o vi
 
 
 alias reboot="sudo reboot"
-alias poweroff="sudo reboot"
+alias poweroff="sudo poweroff"
 
 alias htop="btop"
 
