@@ -1,7 +1,5 @@
-status playing
-file /home/kieran/Music/jujutsu_kaisen_ost/Disc 2/2.21 Fight Again.flac
-position 223
-lib_file /home/kieran/Music/jujutsu_kaisen_ost/Disc 2/2.21 Fight Again.flac
+status stopped
+lib_file /home/kieran/Music/persona_ost/Persona 5 Strikers OST/cd_2/01. 休息の宿.flac
 view tree
 browser-dir /home/kieran
 marked-pl default

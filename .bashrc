@@ -13,11 +13,8 @@ set -o vi
 [[ $- != *i* ]] && return
 
 
-alias reboot="sudo reboot"
-alias poweroff="sudo poweroff"
-
-alias htop="btop"
-
+alias vi="nvim"
+alias vim="nvim"
 alias dots="cd ~/repos/dotfiles/"
 
 # PS1='[\u@\h \W]\$ '

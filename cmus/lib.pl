@@ -1,11 +1,11 @@
 /home/kieran/Music/boa/The Farm/Ambula.mp3
 /home/kieran/Music/boa/The Farm/Boa_Farm_ItCouldBeBetter.mp3
 /home/kieran/Music/boa/The Farm/Boa_JustAGroove.mp3
-/home/kieran/Music/boa/The Farm/DIY.mp3
 /home/kieran/Music/boa/The Farm/Disco.mp3
+/home/kieran/Music/boa/The Farm/DIY.mp3
 /home/kieran/Music/boa/The Farm/Headstrong.mp3
-/home/kieran/Music/boa/The Farm/I Love You.mp3
 /home/kieran/Music/boa/The Farm/I am a Woman.mp3
+/home/kieran/Music/boa/The Farm/I Love You.mp3
 /home/kieran/Music/boa/The Farm/It Could Be Better.mp3
 /home/kieran/Music/boa/The Farm/It's Only Love.mp3
 /home/kieran/Music/boa/The Farm/Love Peace Harmony.mp3
@@ -1276,20 +1276,6 @@
 /home/kieran/Music/pink_floyd/Pink Floyd - Pulse [Disc 2] 1995 [EAC - FLAC] (oan)/11 - Wish You Were Here.flac
 /home/kieran/Music/pink_floyd/Pink Floyd - Pulse [Disc 2] 1995 [EAC - FLAC] (oan)/12 - Comfortably Numb.flac
 /home/kieran/Music/pink_floyd/Pink Floyd - Pulse [Disc 2] 1995 [EAC - FLAC] (oan)/13 - Run Like Hell.flac
-/home/kieran/Music/pink_floyd/Pink Floyd - Is There Anybody Out There [Disc 2] 2000 [EAC - FLAC] (oan)/01 - Hey You.flac
-/home/kieran/Music/pink_floyd/Pink Floyd - Is There Anybody Out There [Disc 2] 2000 [EAC - FLAC] (oan)/02 - Is There Anybody Out There .flac
-/home/kieran/Music/pink_floyd/Pink Floyd - Is There Anybody Out There [Disc 2] 2000 [EAC - FLAC] (oan)/03 - Nobody Home.flac
-/home/kieran/Music/pink_floyd/Pink Floyd - Is There Anybody Out There [Disc 2] 2000 [EAC - FLAC] (oan)/04 - Vera.flac
-/home/kieran/Music/pink_floyd/Pink Floyd - Is There Anybody Out There [Disc 2] 2000 [EAC - FLAC] (oan)/05 - Bring The Boys Back Home.flac
-/home/kieran/Music/pink_floyd/Pink Floyd - Is There Anybody Out There [Disc 2] 2000 [EAC - FLAC] (oan)/06 - Comfortably Numb.flac
-/home/kieran/Music/pink_floyd/Pink Floyd - Is There Anybody Out There [Disc 2] 2000 [EAC - FLAC] (oan)/07 - The Show Must Go On.flac
-/home/kieran/Music/pink_floyd/Pink Floyd - Is There Anybody Out There [Disc 2] 2000 [EAC - FLAC] (oan)/08 - Master Of Ceremonies.flac
-/home/kieran/Music/pink_floyd/Pink Floyd - Is There Anybody Out There [Disc 2] 2000 [EAC - FLAC] (oan)/09 - In The Flesh.flac
-/home/kieran/Music/pink_floyd/Pink Floyd - Is There Anybody Out There [Disc 2] 2000 [EAC - FLAC] (oan)/10 - Run Like Hell.flac
-/home/kieran/Music/pink_floyd/Pink Floyd - Is There Anybody Out There [Disc 2] 2000 [EAC - FLAC] (oan)/11 - Waiting For The Worms.flac
-/home/kieran/Music/pink_floyd/Pink Floyd - Is There Anybody Out There [Disc 2] 2000 [EAC - FLAC] (oan)/12 - Stop.flac
-/home/kieran/Music/pink_floyd/Pink Floyd - Is There Anybody Out There [Disc 2] 2000 [EAC - FLAC] (oan)/13 - The Trial.flac
-/home/kieran/Music/pink_floyd/Pink Floyd - Is There Anybody Out There [Disc 2] 2000 [EAC - FLAC] (oan)/14 - Outside The Wall.flac
 /home/kieran/Music/pink_floyd/Pink Floyd - Is There Anybody Out There [Disc 1] 2000 [EAC - FLAC] (oan)/01 - Master Of Ceremonies [Live Version].flac
 /home/kieran/Music/pink_floyd/Pink Floyd - Is There Anybody Out There [Disc 1] 2000 [EAC - FLAC] (oan)/02 - In The Flesh [Live Version].flac
 /home/kieran/Music/pink_floyd/Pink Floyd - Is There Anybody Out There [Disc 1] 2000 [EAC - FLAC] (oan)/03 - The Thin Ice [Live Version].flac
@@ -1306,6 +1292,20 @@
 /home/kieran/Music/pink_floyd/Pink Floyd - Is There Anybody Out There [Disc 1] 2000 [EAC - FLAC] (oan)/14 - Another Brick In The Wall [Part 3] [Live Version].flac
 /home/kieran/Music/pink_floyd/Pink Floyd - Is There Anybody Out There [Disc 1] 2000 [EAC - FLAC] (oan)/15 - The Last Few Bricks [Live Version].flac
 /home/kieran/Music/pink_floyd/Pink Floyd - Is There Anybody Out There [Disc 1] 2000 [EAC - FLAC] (oan)/16 - Goodbye Cruel World [Live Version].flac
+/home/kieran/Music/pink_floyd/Pink Floyd - Is There Anybody Out There [Disc 2] 2000 [EAC - FLAC] (oan)/01 - Hey You.flac
+/home/kieran/Music/pink_floyd/Pink Floyd - Is There Anybody Out There [Disc 2] 2000 [EAC - FLAC] (oan)/02 - Is There Anybody Out There .flac
+/home/kieran/Music/pink_floyd/Pink Floyd - Is There Anybody Out There [Disc 2] 2000 [EAC - FLAC] (oan)/03 - Nobody Home.flac
+/home/kieran/Music/pink_floyd/Pink Floyd - Is There Anybody Out There [Disc 2] 2000 [EAC - FLAC] (oan)/04 - Vera.flac
+/home/kieran/Music/pink_floyd/Pink Floyd - Is There Anybody Out There [Disc 2] 2000 [EAC - FLAC] (oan)/05 - Bring The Boys Back Home.flac
+/home/kieran/Music/pink_floyd/Pink Floyd - Is There Anybody Out There [Disc 2] 2000 [EAC - FLAC] (oan)/06 - Comfortably Numb.flac
+/home/kieran/Music/pink_floyd/Pink Floyd - Is There Anybody Out There [Disc 2] 2000 [EAC - FLAC] (oan)/07 - The Show Must Go On.flac
+/home/kieran/Music/pink_floyd/Pink Floyd - Is There Anybody Out There [Disc 2] 2000 [EAC - FLAC] (oan)/08 - Master Of Ceremonies.flac
+/home/kieran/Music/pink_floyd/Pink Floyd - Is There Anybody Out There [Disc 2] 2000 [EAC - FLAC] (oan)/09 - In The Flesh.flac
+/home/kieran/Music/pink_floyd/Pink Floyd - Is There Anybody Out There [Disc 2] 2000 [EAC - FLAC] (oan)/10 - Run Like Hell.flac
+/home/kieran/Music/pink_floyd/Pink Floyd - Is There Anybody Out There [Disc 2] 2000 [EAC - FLAC] (oan)/11 - Waiting For The Worms.flac
+/home/kieran/Music/pink_floyd/Pink Floyd - Is There Anybody Out There [Disc 2] 2000 [EAC - FLAC] (oan)/12 - Stop.flac
+/home/kieran/Music/pink_floyd/Pink Floyd - Is There Anybody Out There [Disc 2] 2000 [EAC - FLAC] (oan)/13 - The Trial.flac
+/home/kieran/Music/pink_floyd/Pink Floyd - Is There Anybody Out There [Disc 2] 2000 [EAC - FLAC] (oan)/14 - Outside The Wall.flac
 /home/kieran/Music/pink_floyd/Pink Floyd - Echoes - The Best Of Pink Floyd [Disc 1] 2001 [EAC - FLAC] (oan)/01 - Astronomy domine.flac
 /home/kieran/Music/pink_floyd/Pink Floyd - Echoes - The Best Of Pink Floyd [Disc 1] 2001 [EAC - FLAC] (oan)/02 - See Emily play.flac
 /home/kieran/Music/pink_floyd/Pink Floyd - Echoes - The Best Of Pink Floyd [Disc 1] 2001 [EAC - FLAC] (oan)/03 - The Happiest Days of Our Lives.flac
@@ -1462,63 +1462,36 @@
 /home/kieran/Music/radiohead/2007 - In Rainbows/17. Jigsaw Falling Into Place.flac
 /home/kieran/Music/radiohead/2007 - In Rainbows/18. Videotape.flac
 /home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 1/01. Just.Flac.flac
-cue:///home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 1/Radiohead - Disc 1.cue/1
 /home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 1/02. Paranoid Android.Flac.flac
-cue:///home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 1/Radiohead - Disc 1.cue/2
 /home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 1/03. Karma Police.Flac.flac
-cue:///home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 1/Radiohead - Disc 1.cue/3
 /home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 1/04. Creep.Flac.flac
-cue:///home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 1/Radiohead - Disc 1.cue/4
 /home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 1/05. No Surprises.Flac.flac
-cue:///home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 1/Radiohead - Disc 1.cue/5
 /home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 1/06. High And Dry.Flac.flac
-cue:///home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 1/Radiohead - Disc 1.cue/6
 /home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 1/07. My Iron Lung.Flac.flac
-cue:///home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 1/Radiohead - Disc 1.cue/7
 /home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 1/08. There There.Flac.flac
-cue:///home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 1/Radiohead - Disc 1.cue/8
 /home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 1/09. Lucky.Flac.flac
-cue:///home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 1/Radiohead - Disc 1.cue/9
 /home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 1/10. Fake Plastic Trees.Flac.flac
-cue:///home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 1/Radiohead - Disc 1.cue/10
 /home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 1/11. Idioteque.Flac.flac
-cue:///home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 1/Radiohead - Disc 1.cue/11
 /home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 1/12. Flac.flac
-cue:///home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 1/Radiohead - Disc 1.cue/12
 /home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 1/13. The Bends.Flac.flac
-cue:///home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 1/Radiohead - Disc 1.cue/13
 /home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 1/14. Pyramid Song.Flac.flac
-cue:///home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 1/Radiohead - Disc 1.cue/14
 /home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 1/15. Street Spirit (Fade Out).Flac.flac
-cue:///home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 1/Radiohead - Disc 1.cue/15
-/home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 1/16. Everything In Its Right Place.Flac.flac
 cue:///home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 1/Radiohead - Disc 1.cue/16
+/home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 1/16. Everything In Its Right Place.Flac.flac
 /home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 2/01. Airbag.Flac.flac
-cue:///home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 2/Radiohead - Disc 2.cue/1
 /home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 2/02. I Might Be Wrong.Flac.flac
-cue:///home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 2/Radiohead - Disc 2.cue/2
 /home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 2/03. Go To Sleep.Flac.flac
-cue:///home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 2/Radiohead - Disc 2.cue/3
 /home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 2/04. Let Down.Flac.flac
-cue:///home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 2/Radiohead - Disc 2.cue/4
 /home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 2/05. Planet Telex.Flac.flac
-cue:///home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 2/Radiohead - Disc 2.cue/5
 /home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 2/06. Exit Music(For A Film).Flac.flac
-cue:///home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 2/Radiohead - Disc 2.cue/6
 /home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 2/07. The National Anthem.Flac.flac
-cue:///home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 2/Radiohead - Disc 2.cue/7
 /home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 2/08. Knives Out.Flac.flac
-cue:///home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 2/Radiohead - Disc 2.cue/8
 /home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 2/09. Talk Show Host.Flac.flac
-cue:///home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 2/Radiohead - Disc 2.cue/9
 /home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 2/10. You.Flac.flac
-cue:///home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 2/Radiohead - Disc 2.cue/10
 /home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 2/11. Anyone Can Play Guitar.Flac.flac
-cue:///home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 2/Radiohead - Disc 2.cue/11
 /home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 2/12. How To Disappear Completely.Flac.flac
-cue:///home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 2/Radiohead - Disc 2.cue/12
-/home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 2/13. True Love Waits.Flac.flac
 cue:///home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 2/Radiohead - Disc 2.cue/13
+/home/kieran/Music/radiohead/2008 - The Best Of/2008 - Disc 2/13. True Love Waits.Flac.flac
 /home/kieran/Music/radiohead/2011 - The King Of Limbs/01. Bloom.flac
 /home/kieran/Music/radiohead/2011 - The King Of Limbs/02. Morning Mr. Magpie.flac
 /home/kieran/Music/radiohead/2011 - The King Of Limbs/03. Little By Little.flac
