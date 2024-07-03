@@ -1,5 +1,7 @@
-status stopped
-lib_file /home/kieran/Music/persona_ost/Persona 5 Strikers OST/cd_2/01. 休息の宿.flac
+status playing
+file /home/kieran/Music/The Smiths - Discography (1984-2008) [FLAC]/1986 The Queen Is Dead/05  - The Smiths - Cemetry Gates.flac
+position 143
+lib_file /home/kieran/Music/The Smiths - Discography (1984-2008) [FLAC]/1986 The Queen Is Dead/05  - The Smiths - Cemetry Gates.flac
 view tree
 browser-dir /home/kieran
 marked-pl default
