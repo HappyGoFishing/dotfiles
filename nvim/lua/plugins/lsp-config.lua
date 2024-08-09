@@ -25,15 +25,7 @@ return {
                 }
             })
 
-            lspconfig.rust_analyzer.setup({
-                settings = {
-                    ["rust-analyzer"] = {
-                        cargo = {
-                            allFeatures = true,
-                        },
-                    },
-                },
-            })
+            lspconfig.rust_analyzer.setup({})
             lspconfig.clangd.setup({})
             lspconfig.zls.setup({
                 capabilities = capabilities,
