@@ -5,6 +5,7 @@ vim.cmd("set softtabstop=4")
 vim.cmd("set shiftwidth=4")
 vim.cmd("set number")
 vim.cmd("set relativenumber")
+vim.cmd("let g:zig_fmt_autosave = 0")
 -- Bind vim leader key to space
 vim.g.mapleader = " "
 

@@ -3,18 +3,19 @@
 /* useful constants */
 #define TERMINAL_BINARY "alacritty"
 #define WEBBROWSER_BINARY "firefox"
+
 /* appearance */
 static const unsigned int borderpx  = 2;        /* border pixel of windows */
 static const unsigned int snap      = 24;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
-static const char *fonts[]          = { "UbuntuMonoNerdFont:size=12" };
-static const char dmenufont[]       = "UbuntuMonoNerdFont:size=12";
+static const char *fonts[]          = { "iosevka:size=12" };
+static const char dmenufont[]       = "iosevka:size=12";
 static const char col_gray1[]       = "#000000";
 static const char col_gray2[]       = "#444444";
 static const char col_gray3[]       = "#f5e4ba";
 static const char col_gray4[]       = "#fcf6e9";
-static const char col_accent[]      = "#427B58";
+static const char col_accent[]      = "#063970";
 static const char *colors[][3]      = {
 	/*               fg         bg         border   */
 	[SchemeNorm] = { col_gray3, col_gray1, col_gray2 },

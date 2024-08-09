@@ -1,25 +1,25 @@
 [font]
-size = 14.0
+size = 10.0
 
 [font.bold]
-family = "UbuntuMonoNerdFont"
+family = "iosevka"
 style = "Bold"
 
 [font.bold_italic]
-family = "UbuntuMonoNerdFont"
+family = "iosevka"
 style = "Bold Italic"
 
 [font.italic]
-family = "UbuntuMonoNerdFont"
+family = "iosevka"
 style = "Italic"
 
 [font.normal]
-family = "UbuntuMonoNerdFont"
+family = "iosevka"
 style = "Regular"
 
 
 [colors.primary]
-background = "0x1E1E1E"
+background = "#0a0a0a"
 foreground = "0xD4D4D4"
 
 [colors.normal]
