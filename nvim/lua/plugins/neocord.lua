@@ -1,4 +1,4 @@
-return {
+--[[return {
     'IogaMaster/neocord',
     event = "VeryLazy",
     config = function()
@@ -26,4 +26,12 @@ return {
             terminal_text       = "Using Terminal",           -- Format string rendered when in terminal mode.
         })
     end
-}
+} --]]
+
+
+local os_name = vim.loop.os_uname().sysname
+if os_name == "Windows_NT" then
+  return {}
+else
+    return {}
+end
