@@ -15,3 +15,4 @@ alias fastfetch="fastfetch -c ~/.config/fastfetch/neofetch.jsonc"
 alias repos="cd ~/repos"
 alias dots="cd ~/repos/dotfiles"
 
+fastfetch

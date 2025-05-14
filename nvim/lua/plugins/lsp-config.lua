@@ -9,7 +9,7 @@ return {
         "williamboman/mason-lspconfig.nvim",
         config = function()
             require("mason-lspconfig").setup({
-                ensure_installed = {}
+                ensure_installed = { "lua_ls" }
             })
         end
     },
@@ -27,6 +27,14 @@ return {
 
             lspconfig.rust_analyzer.setup({})
             lspconfig.clangd.setup({})
+            lspconfig.zls.setup({
+                capabilities = capabilities,
+                on_attach = on_attach,
+                cmd = { "zls" },
+                filetypes = { "zig", "zir" },
+                root_dir = lspconfig.util.root_pattern("zls.json", "build.zig", ".git"),
+                single_file_support = true,
+            })
 
             vim.keymap.set("n", "K", vim.lsp.buf.hover, {})
             vim.keymap.set("n", "gd", vim.lsp.buf.definition, {})
