@@ -1,12 +1,12 @@
 return  {
-    "Mofiqul/vscode.nvim",
+    'f4z3r/gruvbox-material.nvim',
     priority = 1000 ,
     opts = ...,
     config = function()
-        local builtin = require('vscode').setup({
+        local builtin = require('gruvbox-material').setup({
             transparent = true,
         })
-        vim.cmd("colorscheme vscode")
+        vim.cmd("colorscheme gruvbox-material")
     end
 
 }
